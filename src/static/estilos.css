@@ -1,7 +1,7 @@
 h1 {
     color: pink;
-    text-align: center;
-    border-bottom: 1px solid #000;
+    text-align: right;
+    border-bottom: 4px double red;
 }
 div {
     text-align: center;
